@@ -1,1 +1,1 @@
-https://github.com/9600s/Roadmap.sh-Blogging-Platform-API
+https://roadmap.sh/projects/blogging-platform-api
