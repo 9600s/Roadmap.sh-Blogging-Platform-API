@@ -15,7 +15,7 @@ public class PostService : IPostService
     private readonly List<BlogPost> _posts = new List<BlogPost>();
     private int _nextId = 1;
 
-    public BlogPost CreatePost(BlogPost post) // POST
+    public BlogPost CreatePost(BlogPost post) //  POST
     {
         post.Id = _nextId++;
         post.CreatedAt = DateTime.Now;
